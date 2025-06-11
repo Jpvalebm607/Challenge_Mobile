@@ -31,7 +31,6 @@ O XP BetSafe ajuda os usuários a manterem um comportamento saudável com aposta
 
 ## 🔗 Link do Figma (Protótipo)
 
-> Cole aqui o link quando disponível:  
 **[Acessar protótipo no Figma](https://www.figma.com/design/xWhKyEvi5rjKKLnAGkElSc/XP-BetSafe-%E2%80%94-Challenge-XP-%E2%80%94-Mobile-Development?m=auto&t=YDJVTR4zxDTkUdHZ-6)**
 
 ---
